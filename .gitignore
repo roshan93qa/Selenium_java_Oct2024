@@ -1,0 +1,117 @@
+
+
+application.log
+##############################
+## Java
+##############################
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+activityLog.log
+##############################
+## Maven
+##############################
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+pom.xml.bak
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+##############################
+## IntelliJ
+##############################
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+##############################
+## Eclipse
+##############################
+.settings/
+bin/
+tmp/
+.metadata
+.classpath
+.project
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.factorypath
+
+## OS X
+##############################
+.DS_Store
+# Ignore user-specific files
+AppData/
+.VirtualBox/
+.android/
+.bash_history
+.cache/
+Documents/
+*.log
+
+# Ignore system directories
+Desktop/
+Recent/
+Templates/
+# Ignore user-specific and system directories
+../../.VirtualBox/
+../../.android/
+../../.bash_history
+../../.cache/
+../../.config/
+../../.docker/
+../../.eclipse/
+../../.gitconfig
+../../.gradle/
+../../.idlerc/
+../../.jenkins/
+../../.lemminx/
+../../.lesshst
+../../.m2/
+../../.p2/
+../../.postman/
+../../.robotframework-ls/
+../../.viminfo
+../../ApiPostman/
+../../AppData/
+../../Contacts/
+../../Downloads/
+../../Favorites/
+../../IntelGraphicsProfiles/
+../../Links/
+../../Music/
+../../NPProt.bkp
+../../NPProt.exe
+../../NTUSER.DAT*
+../../OneDrive/
+../../PycharmProjects/
+../../Saved Games/
+../../Searches/
+../../Tracing/
+../../Videos/
+../../VirtualBox VMs/
+../../WPS Cloud Files/
+../../configuration-Office365-x64.xml
+../../eclipse-jee-2024-09-R-win32-x86_64/
+../../node_modules/
+../../ntuser.*
+../../package-lock.json
+../../package.json
+../../setup.exe
+
+
